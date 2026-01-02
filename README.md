@@ -9,7 +9,7 @@ The analysis is structured using:
 
 ## Tools & Technologies
 - Power BI Desktop  
-- DAX (basic measures)  
+- DAX
 - Data Cleaning & Transformation  
 - Interactive Dashboards & Drill-Through Analysis  
 
@@ -28,7 +28,6 @@ Provides a high-level view of what is driving churn by focusing on:
 - Identification of tenure and pricing segments with:
   - Highest churn
   - Lowest churn
-  - 
 This page answers:
 > *At which tenure lengths and monthly charge ranges is churn most prevalent?*
 
